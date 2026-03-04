@@ -15,4 +15,4 @@ class Revista(ItemBilioteca):
         f"Ano: {self.get_ano()} | "
         f"Status: {status}")
         
-    
+commit()
